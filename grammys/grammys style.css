@@ -1,5 +1,5 @@
 #content {
-    width: 60%;
+    width: 75%;
     margin: auto;
 }
 body {
@@ -22,7 +22,7 @@ body {
   
   
   #byline {
-    font-family:'Times New Roman', Times, serif;
+    font-family:Georgia;
     font-size: 1.0em;
     color: #654321;
   }
@@ -55,11 +55,5 @@ body {
   @media (orientation: portrait) {
     #content {
       width: 100%
-    }
-    p {
-      color: #000000
-    }
-    #byline {
-      color: #000000
     }
   }
